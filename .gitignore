@@ -1,0 +1,5 @@
+gtorrent
+*.o
+*.out
+build/
+res/*.torrent
