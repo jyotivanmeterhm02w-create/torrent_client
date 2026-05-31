@@ -3,3 +3,10 @@ gtorrent
 *.out
 build/
 res/*.torrent
+
+download/
+Downloads/
+gtorrent
+piece_test.bin
+res/torrent_file
+*.o
